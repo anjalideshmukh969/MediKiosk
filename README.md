@@ -2,9 +2,7 @@
 
 Smart India Hackathon 2026 | Problem Statement **SIH26047** | Ministry of Ayush
 
-MediKiosk is a web platform for hospital OPDs. Before meeting the doctor, a patient answers history questions by voice or touch and uploads old reports. AI models read the documents and flag emergency symptoms, and the system generates a structured summary that the doctor reviews and edits.
-
-> **Disclaimer:** This is a student prototype. It does not diagnose or prescribe. All summaries are drafts for a doctor to review. Use only fake or sample data, never real patient records.
+MediKiosk is an AI powered web platform for hospital OPDs. Before meeting the doctor, a patient answers history questions by voice or touch and uploads old reports. AI models read the documents and flag emergency symptoms, and the system generates a structured summary that the doctor reviews and edits.
 
 ## Problem
 
